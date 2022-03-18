@@ -2,6 +2,8 @@
 ![psicodev](https://img.shields.io/badge/dual--class-psicodev-black)
 ![engraver](https://img.shields.io/badge/engraver-linocut-black)
 ![vegan](https://img.shields.io/badge/vegan-🌱-black)
+![bass](https://img.shields.io/badge/bass-𝄢-black)
+
 
 ##### /tools
 ![linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
