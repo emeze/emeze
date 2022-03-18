@@ -7,4 +7,6 @@
 ![python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
+![pycharm](https://img.shields.io/badge/Pycharm-black?style=flat-square&logo=pycharm)
 ![arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
+
