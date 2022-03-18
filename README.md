@@ -1,3 +1,4 @@
 ### Opa o/
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-🇵🇸 
+
+![psicodev](https://img.shields.io/badge/dual--class-psicodev-black)
+
