@@ -1,5 +1,5 @@
 ##### /me
-![psicodev](https://img.shields.io/badge/dual--class-psicodev-black)
+![psychodev](https://img.shields.io/badge/dual--class-psycho--dev-black)
 ![engraver](https://img.shields.io/badge/engraver-linocut-black)
 ![vegan](https://img.shields.io/badge/vegan-🌱-black)
 ![bass](https://img.shields.io/badge/bass-𝄢-black)
