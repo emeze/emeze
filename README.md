@@ -10,5 +10,5 @@
 ![pycharm](https://img.shields.io/badge/Pycharm-black?style=flat-square&logo=pycharm)
 ![arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
 
-/stand_for
-##### :palestinian_territories:
+##### /stand_for
+![palestine](https://img.shields.io/badge/🇵🇸-palestine)
