@@ -11,4 +11,5 @@
 ![arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
 
 ##### /stand_for
-![palestine](https://img.shields.io/badge/🇵🇸-palestine-black)
+![palestine](https://img.shields.io/badge/palestine-🇵🇸-black)
+
