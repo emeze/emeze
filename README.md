@@ -1,5 +1,5 @@
 ##### /me
-![psychodev](https://img.shields.io/badge/dual--class-psycho--dev-black)
+![psychodev](https://img.shields.io/badge/dual--class-psychology--dev-black)
 ![engraver](https://img.shields.io/badge/engraver-linocut-black)
 ![vegan](https://img.shields.io/badge/vegan-🌱-black)
 ![bass](https://img.shields.io/badge/bass-𝄢-black)
@@ -9,7 +9,7 @@
 ![python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
-![pycharm](https://img.shields.io/badge/Pycharm-black?style=flat-square&logo=pycharm)
+![vscode](https://img.shields.io/badge/VSCode-black?style=flat-square&logo=visualstudiocode)
 ![arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
 
 ##### /stand_for
